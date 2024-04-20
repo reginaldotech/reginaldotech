@@ -15,7 +15,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rtek_cell/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reginaldo-de-oliveira-souza-90a803301/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/retec07) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reginaldotech&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=reginaldotech&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reginaldotech&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldotech&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
